@@ -50,7 +50,6 @@ about-me/
 │ ├── hobby3.jpg # Image of the third hobby
 │ └── hobby4.jpg # Image of the fourth hobby
 └── fonts/ # Project fonts
-
 └── [font files]
 
 🎨 Page Sections
