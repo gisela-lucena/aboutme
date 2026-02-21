@@ -38,20 +38,6 @@ Consistent typography
 Optimized images
 Custom visual content
 
-📁 Project Structure
-
-about-me/
-├── index.html # Main page
-├── style.css # CSS styles
-├── images/ # Folder for personal images
-│ ├── profile.jpg # Profile picture
-│ ├── hobby1.jpg # Image of the first hobby
-│ ├── hobby2.jpg # Image of the second hobby
-│ ├── hobby3.jpg # Image of the third hobby
-│ └── hobby4.jpg # Image of the fourth hobby
-└── fonts/ # Project fonts
-└── [font files]
-
 🎨 Page Sections
 
 ### Header
